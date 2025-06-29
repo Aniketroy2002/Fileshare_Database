@@ -55,7 +55,7 @@ Folder Structure:
 ├── .env.local # Environment variables
 ├── next.config.ts
 └── README.md
-
+---
 #How to Run Locally:
 
 Clone the Repository

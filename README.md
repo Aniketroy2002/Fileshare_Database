@@ -41,7 +41,8 @@ Anikrypt Pro is a modern, full-stack file-sharing web application built with **N
 
 ## 📂 Project Structure (Simplified)
 Folder Structure:
-/anikrypt-pro
+<pre>
+plaintext ```/anikrypt-pro
 ├── components
 ├── pages
 │ ├── index.tsx # Main upload page
@@ -54,7 +55,8 @@ Folder Structure:
 │ └── db.ts # MongoDB connection
 ├── .env.local # Environment variables
 ├── next.config.ts
-└── README.md
+└── README.md```
+</pre>
 ---
 #How to Run Locally:
 

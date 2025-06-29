@@ -5,7 +5,7 @@ import path from "path"
 import { MongoClient } from "mongodb"
 
 const MONGODB_URI =
-  "mongodb+srv://aniketroy10100:database@cluster0.epwnny6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+  "Your_MongoDB_URL"
 
 let client: MongoClient
 
